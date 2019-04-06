@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\master the\documents\visual studio 2015\projects\algorithm\algorithm\main.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\algorithm\algorithm\main.cpp(243): warning C4018: '>=': signed/unsigned mismatch
+  algorithm.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\algorithm\Debug\algorithm.exe
+  algorithm.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\algorithm\Debug\algorithm.pdb (Full PDB)

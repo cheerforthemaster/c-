@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\master the\documents\visual studio 2015\projects\xialiangwei11\xialiangwei11\cmemextend.h(26): warning C4018: '>=': signed/unsigned mismatch
+  xialiangwei11.vcxproj -> C:\Users\Master The\Documents\Visual Studio 2015\Projects\xialiangwei11\Debug\xialiangwei11.exe
+  xialiangwei11.vcxproj -> C:\Users\Master The\Documents\Visual Studio 2015\Projects\xialiangwei11\Debug\xialiangwei11.pdb (Full PDB)

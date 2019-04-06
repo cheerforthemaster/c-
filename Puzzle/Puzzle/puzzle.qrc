@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Puzzle">
+    <file>Resources/m.jpg</file>
+  </qresource>
+</RCC>

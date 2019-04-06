@@ -1,0 +1,8 @@
+﻿  qrc_qt_experiment.cpp
+  moc_MyWin.cpp
+  moc_qt_experiment.cpp
+  MyWin.cpp
+  main.cpp
+  qt_experiment.cpp
+  Generating Code...
+  Qt_experiment.vcxproj -> C:\Users\Master The\Documents\Visual Studio 2015\Projects\Qt_experiment\x64\Release\Qt_experiment.exe

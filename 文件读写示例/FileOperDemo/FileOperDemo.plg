@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FileOperDemo - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP289.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/FileOperDemo.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\课程文档\2010年上学期\软件能力与测试-11109\FileOperDemo\FileOperOBJ.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP289.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP28A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/FileOperDemo.pdb" /machine:I386 /out:"Release/FileOperDemo.exe" 
+".\Release\FileOperOBJ.obj"
+".\Release\FileOperDemo.obj"
+".\Release\FileOperDemoDlg.obj"
+".\Release\StdAfx.obj"
+".\Release\FileOperDemo.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP28A.tmp"
+<h3>Output Window</h3>
+Compiling...
+FileOperOBJ.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+FileOperDemo.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

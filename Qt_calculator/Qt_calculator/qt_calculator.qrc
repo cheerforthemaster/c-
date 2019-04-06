@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="Qt_calculator">
+    <file>Resources/0_48px_1168267_easyicon.net.png</file>
+    <file>Resources/1_48px_1168269_easyicon.net - 副本.png</file>
+    <file>Resources/1_48px_1168269_easyicon.net.png</file>
+    <file>Resources/2_48px_1168271_easyicon.net - 副本.png</file>
+    <file>Resources/2_48px_1168271_easyicon.net.png</file>
+    <file>Resources/3_48px_1168273_easyicon.net - 副本.png</file>
+    <file>Resources/3_48px_1168273_easyicon.net.png</file>
+    <file>Resources/4_48px_1168275_easyicon.net - 副本.png</file>
+    <file>Resources/4_48px_1168275_easyicon.net.png</file>
+    <file>Resources/5_48px_1168277_easyicon.net - 副本.png</file>
+    <file>Resources/5_48px_1168277_easyicon.net.png</file>
+    <file>Resources/6_48px_1168279_easyicon.net - 副本.png</file>
+    <file>Resources/6_48px_1168279_easyicon.net.png</file>
+    <file>Resources/7_48px_1168281_easyicon.net - 副本.png</file>
+    <file>Resources/7_48px_1168281_easyicon.net.png</file>
+    <file>Resources/8_48px_1168283_easyicon.net - 副本.png</file>
+    <file>Resources/8_48px_1168283_easyicon.net.png</file>
+    <file>Resources/9_48px_1168285_easyicon.net - 副本.png</file>
+    <file>Resources/9_48px_1168285_easyicon.net.png</file>
+    <file>Resources/20140429190312-1688988626.png - 副本.jpg</file>
+    <file>Resources/20140429190312-1688988626.png.jpg</file>
+    <file>Resources/a1ec08fa513d269721a8857457fbb2fb4316d8a4 - 副本.png</file>
+    <file>Resources/a1ec08fa513d269721a8857457fbb2fb4316d8a4.png</file>
+    <file>Resources/a08b87d6277f9e2fda25102e1d30e924b899f380 - 副本.png</file>
+    <file>Resources/a08b87d6277f9e2fda25102e1d30e924b899f380.png</file>
+    <file>Resources/d4628535e5dde711b23510aea6efce1b9c166186.png</file>
+    <file>Resources/delete_point_26px_1073731_easyicon.net.png</file>
+    <file>Resources/little-minus-symbol_318-25368.png</file>
+    <file>Resources/QQ图片20170921182800.png</file>
+    <file>Resources/QQ图片20170921182812.png</file>
+    <file>Resources/QQ图片20170921184942.png</file>
+    <file>Resources/t0133292e59531bace9.png</file>
+  </qresource>
+</RCC>

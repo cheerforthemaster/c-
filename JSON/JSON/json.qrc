@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="JSON">
+    <file>Resources/yellow.gif</file>
+    <file>Resources/array.gif</file>
+    <file>Resources/blue.gif</file>
+    <file>Resources/green.gif</file>
+    <file>Resources/object.gif</file>
+  </qresource>
+</RCC>

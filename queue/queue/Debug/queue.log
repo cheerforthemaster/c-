@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\master the\documents\visual studio 2015\projects\queue\queue\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  queue.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\queue\Debug\queue.exe
+  queue.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\queue\Debug\queue.pdb (Full PDB)

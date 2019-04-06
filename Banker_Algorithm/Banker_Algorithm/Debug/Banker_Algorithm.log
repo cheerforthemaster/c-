@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\banker_algorithm\banker_algorithm\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Banker_Algorithm.vcxproj -> c:\users\master the\documents\visual studio 2015\Projects\Banker_Algorithm\Debug\Banker_Algorithm.exe
+  Banker_Algorithm.vcxproj -> c:\users\master the\documents\visual studio 2015\Projects\Banker_Algorithm\Debug\Banker_Algorithm.pdb (Partial PDB)

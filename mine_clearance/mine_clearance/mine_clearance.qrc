@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="mine_clearance">
+    <file>Resources/0.gif</file>
+    <file>Resources/1.gif</file>
+    <file>Resources/2.gif</file>
+    <file>Resources/3.gif</file>
+    <file>Resources/4.gif</file>
+    <file>Resources/5.gif</file>
+    <file>Resources/6.gif</file>
+    <file>Resources/7.gif</file>
+    <file>Resources/8.gif</file>
+    <file>Resources/ask.gif</file>
+    <file>Resources/ask1.gif</file>
+    <file>Resources/blank.gif</file>
+    <file>Resources/blood.gif</file>
+    <file>Resources/d0.gif</file>
+    <file>Resources/d1.gif</file>
+    <file>Resources/d2.gif</file>
+    <file>Resources/d3.gif</file>
+    <file>Resources/d4.gif</file>
+    <file>Resources/d5.gif</file>
+    <file>Resources/d6.gif</file>
+    <file>Resources/d7.gif</file>
+    <file>Resources/d8.gif</file>
+    <file>Resources/d9.gif</file>
+    <file>Resources/d10.gif</file>
+    <file>Resources/error.gif</file>
+    <file>Resources/face0.gif</file>
+    <file>Resources/face1.gif</file>
+    <file>Resources/face2.gif</file>
+    <file>Resources/face3.gif</file>
+    <file>Resources/face4.gif</file>
+    <file>Resources/face7.gif</file>
+    <file>Resources/face8.gif</file>
+    <file>Resources/face9.gif</file>
+    <file>Resources/flag.gif</file>
+    <file>Resources/hole.gif</file>
+    <file>Resources/mine.gif</file>
+  </qresource>
+</RCC>

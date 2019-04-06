@@ -1,0 +1,20 @@
+﻿  mouse.cpp
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\shader_m.h(65): warning C4101: 'infoLog': unreferenced local variable
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\shader_m.h(64): warning C4101: 'success': unreferenced local variable
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(177): error C2653: 'FileSystem': is not a class or namespace name
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(177): error C3861: 'getPath': identifier not found
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(177): error C2228: left of '.c_str' must have class/struct/union
+  c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(177): note: type is 'unknown-type'
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(199): error C2653: 'FileSystem': is not a class or namespace name
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(199): error C3861: 'getPath': identifier not found
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(199): error C2228: left of '.c_str' must have class/struct/union
+  c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(199): note: type is 'unknown-type'
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(225): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(293): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(324): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(327): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_glfw_glad\opengl_glfw_glad\mouse.cpp(354): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data

@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\master the\documents\visual studio 2015\projects\binarytree\binarytree\binarytree.h(25): warning C4800: 'char': forcing value to bool 'true' or 'false' (performance warning)
+  c:\users\master the\documents\visual studio 2015\projects\binarytree\binarytree\binarytree.h(25): note: while compiling class template member function 'bool BinaryTree<char>::SetRefValue(T)'
+          with
+          [
+              T=char
+          ]
+  c:\users\master the\documents\visual studio 2015\projects\binarytree\binarytree\main.cpp(9): note: see reference to function template instantiation 'bool BinaryTree<char>::SetRefValue(T)' being compiled
+          with
+          [
+              T=char
+          ]
+  c:\users\master the\documents\visual studio 2015\projects\binarytree\binarytree\main.cpp(7): note: see reference to class template instantiation 'BinaryTree<char>' being compiled
+c:\users\master the\documents\visual studio 2015\projects\binarytree\binarytree\binarytree.h(102): warning C4715: 'BinaryTree<char>::preOrderCreat': not all control paths return a value
+c:\users\master the\documents\visual studio 2015\projects\binarytree\binarytree\binarytree.h(286): warning C4715: 'BinaryTree<char>::destroy': not all control paths return a value
+  BinaryTree.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\BinaryTree\Debug\BinaryTree.exe
+  BinaryTree.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\BinaryTree\Debug\BinaryTree.pdb (Full PDB)

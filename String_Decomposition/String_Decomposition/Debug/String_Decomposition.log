@@ -1,0 +1,19 @@
+﻿  String_DecompositionDlg.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  String_Decomposition.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  Cdecompose_String.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+c:\users\master the\documents\visual studio 2015\projects\string_decomposition\string_decomposition\cdecompose_string.cpp(15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\string_decomposition\string_decomposition\cdecompose_string.cpp(25): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\master the\documents\visual studio 2015\projects\string_decomposition\string_decomposition\cdecompose_string.cpp(26): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\master the\documents\visual studio 2015\projects\string_decomposition\string_decomposition\cdecompose_string.cpp(38): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\master the\documents\visual studio 2015\projects\string_decomposition\string_decomposition\cdecompose_string.cpp(39): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\master the\documents\visual studio 2015\projects\string_decomposition\string_decomposition\cdecompose_string.cpp(43): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating Code...
+  String_Decomposition.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\String_Decomposition\Debug\String_Decomposition.exe
+  String_Decomposition.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\String_Decomposition\Debug\String_Decomposition.pdb (Partial PDB)

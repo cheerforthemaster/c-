@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\master the\documents\visual studio 2015\projects\opengl_test\opengl_test\source.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\master the\documents\visual studio 2015\projects\opengl_test\opengl_test\source.cpp(11): error C2365: 'setModelArray': redefinition; previous definition was 'function'
+  c:\users\master the\documents\visual studio 2015\projects\opengl_test\opengl_test\paint_second.h(5): note: see declaration of 'setModelArray'

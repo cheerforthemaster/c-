@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\master the\documents\visual studio 2015\projects\stack\stack\stack.h(43): warning C4715: 'Stack<int>::push': not all control paths return a value
+  stack.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\stack\Debug\stack.exe
+  stack.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\stack\Debug\stack.pdb (Full PDB)

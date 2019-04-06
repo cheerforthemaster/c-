@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+  51 of 150 functions (34.0%) were compiled, the rest were copied from previous compilation.
+    40 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  process_mutual_exclusion.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\process_mutual_exclusion\Release\process_mutual_exclusion.exe
+  process_mutual_exclusion.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\process_mutual_exclusion\Release\process_mutual_exclusion.pdb (Full PDB)

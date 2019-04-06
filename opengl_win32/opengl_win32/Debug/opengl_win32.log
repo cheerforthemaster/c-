@@ -1,0 +1,38 @@
+﻿  ProcessData_fuc.cpp
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(159): warning C4018: '>': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  ProcessData.h
+  paint_second.cpp
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(159): warning C4018: '>': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\processdata_fuc.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\paint_second.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  3Dsort.cpp
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(307): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\opengl_win32\opengl_win32\3dsort.cpp(355): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  opengl_win32.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\opengl_win32\Debug\opengl_win32.exe
+  opengl_win32.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\opengl_win32\Debug\opengl_win32.pdb (Full PDB)

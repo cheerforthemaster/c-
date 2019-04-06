@@ -1,0 +1,7 @@
+﻿  3_2_atVS.cpp
+c:\users\master the\documents\visual studio 2015\projects\datastruct_qusetion_one\datastruct_qusetion_one\3_2_atvs.cpp(54): warning C4018: '>': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\datastruct_qusetion_one\datastruct_qusetion_one\3_2_atvs.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\datastruct_qusetion_one\datastruct_qusetion_one\3_2_atvs.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\datastruct_qusetion_one\datastruct_qusetion_one\3_2_atvs.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  datastruct_qusetion_one.vcxproj -> C:\Users\Master The\Documents\Visual Studio 2015\Projects\datastruct_qusetion_one\Debug\datastruct_qusetion_one.exe
+  datastruct_qusetion_one.vcxproj -> C:\Users\Master The\Documents\Visual Studio 2015\Projects\datastruct_qusetion_one\Debug\datastruct_qusetion_one.pdb (Full PDB)

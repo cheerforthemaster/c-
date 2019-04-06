@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\master the\documents\visual studio 2015\projects\lintcode\lintcode\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\lintcode\lintcode\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\lintcode\lintcode\source.cpp(44): warning C4018: '>=': signed/unsigned mismatch
+c:\users\master the\documents\visual studio 2015\projects\lintcode\lintcode\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  lintcode.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\lintcode\Debug\lintcode.exe
+  lintcode.vcxproj -> C:\Users\Master The\documents\visual studio 2015\Projects\lintcode\Debug\lintcode.pdb (Full PDB)

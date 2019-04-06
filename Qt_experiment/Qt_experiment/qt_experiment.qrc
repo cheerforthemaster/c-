@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>GeneratedFiles/ligthbulb_on_help_48px_1112252_easyicon.net.png</file>
+  </qresource>
+  <qresource prefix="windows">
+    <file>GeneratedFiles/OS_Windows_8_48px_1180143_easyicon.net.png</file>
+  </qresource>
+</RCC>
